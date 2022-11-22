@@ -1,4 +1,4 @@
-package day42_collections;
+package ders42_collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
